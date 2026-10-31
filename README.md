@@ -85,12 +85,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raksha-qq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c5ff48&icon_color=c5ff48&text_color=c9d1d9" alt="Raksha's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raksha-qq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c5ff48&text_color=c9d1d9" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raksha-qq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c5ff48&icon_color=c5ff48&text_color=c9d1d9" alt="Raksha's GitHub Stats" height="175" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raksha-qq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c5ff48&text_color=c9d1d9" alt="Top Languages" height="175" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raksha-qq&theme=tokyonight&hide_border=true&background=0d1117&ring=c5ff48&fire=c5ff48&currStreakLabel=c5ff48" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Raksha-qq&theme=tokyonight&hide_border=true&background=0d1117&ring=c5ff48&fire=c5ff48&currStreakLabel=c5ff48" alt="GitHub Streak" />
 
 </div>
 
@@ -99,3 +99,4 @@
 <div align="center">
   <sub>"Curiosity is a form of creation." • Engineered by Raksha Mendon</sub>
 </div>
+
